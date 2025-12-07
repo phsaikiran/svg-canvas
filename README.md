@@ -3,9 +3,9 @@
 ## Setup
 
 ````
-yarn install
-yarn build
-yarn serve
+bun install
+bun build
+bun serve
 ````
 
 ## Demo
